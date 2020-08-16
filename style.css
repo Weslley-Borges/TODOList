@@ -25,6 +25,9 @@ h4{
     text-align: center;
     font-family: "Verdana", sans-serif;
 }
+a{
+    color: var(--azulPrincipal)
+}
 .styling{
     font-weight: 800;
     color: var(--azulPrincipal);
